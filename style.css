@@ -1,0 +1,47 @@
+body{background-color: #D6E1FF;
+    box-sizing: border-box;
+    }
+    .Container1{
+        display: grid;
+        place-content: center;
+        }
+    img{width: 300px;
+    height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    }
+    .Container2{background-color: white;
+    height: 330px;
+    width: 300px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    }
+    .Container3{
+        background-color: rgb(254, 246, 254);
+        width: 250px;
+        height: 70px;
+       margin: 0 auto;
+       border-radius: 10px;
+       line-height: 0.07em;
+       padding: 10px;
+    }
+    .Container4{background-color: blue;
+    border-radius: 8px;
+    width:250px;
+    height:35px ;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 5px 10px 0 rgb(185, 169, 199), 0 7px 21px 0 rgb(208, 185, 229);
+    }
+    /*styling my icon*/
+    .icon{
+        background-color: rgb(222, 212, 222);
+        Width: 15px;
+       height: 15px;
+        float: left;
+        border-radius:50px;
+         padding: 15px;
+         margin-top: 10px;
+    }
+    .fa{color: rgb(83, 83, 83);}
